@@ -1,0 +1,1464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and ID.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_AVOCADO">
+      <Word>Abacate
+Um abacate fresco.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_AVOCADO_BAD">
+      <Word>Abacate
+...eeeeee está podre.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_BANANA">
+      <Word>Banana
+Uma banana madura.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_BANANA_BAD">
+      <Word>Banana
+...eeeeee está estragada.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_ICECREAM">
+      <Word>Picolé
+Um picolé gelado e refrescante.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_ICECREAM_BAD">
+      <Word>Picolé
+...eeeeee está derretido.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_PHONE">
+      <Word>Celular
+Um novo e brilante celular, direto da loja.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_PHONE_BAD">
+      <Word>Celular
+...eeeeee está rachado. E desatualizado.</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YES">
+      <Word>sim</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_7">
+      <Word>Qual das seguintes opções é permitida, se você estiver jogando videogame?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="TEST">
+      <Word>TESTE</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="TEST_TO">
+      <Word>para testar sua inteligência</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_1">
+      <Word>Qual das seguintes está correta?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_3">
+      <Word>Vacinação realmente causa autismo?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="NO">
+      <Word>não</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_4">
+      <Word>É verdade que o mundo é controlado por pessoas lagarto?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_5">
+      <Word>_____ maçã.</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YOUR">
+      <Comment>Correct answer</Comment>
+      <Word>sua</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YOU_ARE">
+      <Comment>Wrong answer</Comment>
+      <Word>seu</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_6">
+      <Word>"Zelda" é um nome para um garoto, ou para uma garota?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="GIRL">
+      <Comment>Wrong answer</Comment>
+      <Word>Garota</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="BOY">
+      <Comment>Correct answer</Comment>
+      <Word>Garoto</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_8">
+      <Word>Você acredita que os illuminati controlam tudo, até os jogos?</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="SEND_REQUEST">
+      <Comment>Wrong answer</Comment>
+      <Word>enviar pedidos de amizade pela rede social</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="DONT_SEND_REQUEST">
+      <Comment>Correct answer</Comment>
+      <Word>literalmente qualquer outra coisa</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CREDITS">
+      <Word>Créditos</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="EXIT">
+      <Word>Sair</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OPTIONS">
+      <Word>Opções</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="START">
+      <Word>Começar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PLAY">
+      <Word>Jogar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NEW_GAME">
+      <Word>Novo jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONFIRM">
+      <Word>confirme que você é
+&lt;color=red&gt;um monstro&lt;/color&gt;
+e quer sair</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO">
+      <Word>Não</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="YES">
+      <Word>Sim</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CLOSE">
+      <Word>Fechar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ERROR">
+      <Word>ERRO</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FULLSCREEN">
+      <Word>Tela cheia</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OPTIONS_MENU">
+      <Word>Menu de opções</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SOUND">
+      <Word>Som</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MUSIC">
+      <Word>Música</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="LANGUAGE">
+      <Word>Linguagem</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESOLUTION">
+      <Word>Resolução</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="VOICE">
+      <Word>Voz</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="VOLUME">
+      <Word>Volume</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SUBTITLES">
+      <Word>Legendas</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SUBTITLES_SIZE">
+      <Word>Tamanho das legendas</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_SMALL">
+      <Word>Pequena</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_NORMAL">
+      <Word>Normal</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_LARGE">
+      <Word>Grande</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS">
+      <Comment>am/pm ou 24h tempo, metros ou polegadas e assim por diante</Comment>
+      <Word>Unidades de medida</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS_METRIC">
+      <Word>Métrica</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS_IMPERIAL">
+      <Word>Imperial</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONTINUE">
+      <Word>Continuar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="BACK">
+      <Word>Voltar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="THE_END">
+      <Word>fim</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ON">
+      <Word>Ligado</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OFF">
+      <Word>Desligado</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CURRENT_LANGUAGE">
+      <Word>Português BR</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="COLLECT_DATA">
+      <Word>Coleta de dados</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="COLLECT_DATA_INFO">
+      <Comment>Before (cut) - Short version. After (cut) - Long version. Basically (cut) cuts this in 2 pieces for Short and Long text. Don't translate (cut)</Comment>
+      <Word>Nós apenas coletamos dados ESTATÍSTICOS ANÔNIMOS! Não seus IPs, localizações, nomes, Steam handles, IDs de hardware, etc. (cut) Temos absolutamente nenhuma ideia da sua identidade. O que sabemos é: quanto tempo demorou para resolver um puzzle, ou quantos cliques foram nescessários, ou que erros foram encontrados, ou qualquer outros dados estatísticos. Tudo isso é utilizado para APRIMORAR O JOGO.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="READ_MORE">
+      <Word>Clique aqui para ler mais.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PAUSED_MENU">
+      <Word>Jogo pausado</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CLOSE">
+      <Word>fechar_console</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CLOSE_BUTTON">
+      <Word>Fechar console</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_MENU">
+      <Word>carregar_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_MENU_LOADED">
+      <Word>Menu carregado</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_AUDIO_BUTTON">
+      <Word>Audio</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_AUDIO">
+      <Word>carregar_audio_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_AUDIO_LOADED">
+      <Word>Opções de audio carregadas</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_GAMEPLAY">
+      <Word>carregar_opções</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_GAMEPLAY_LOADED">
+      <Word>Opções do jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_PRESS_ESC_TO_CLOSE">
+      <Word>Escolha uma opção, ou aperte ESC para fechar o Console_</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_ARE_YOU_SURE_TO_EXIT">
+      <Word>Você tem certeza de que quer sair?
+O progresso do pacote atual será perdido, mas todas as conquistas irão permanecer.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_EXIT_CHECK">
+      <Word>carregar_sair_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING">
+      <Word>Carregando</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_1">
+      <Word>Olá mundo!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_2">
+      <Word>Desempacotando módulos</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_3">
+      <Word>Acorde, Neo</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_4">
+      <Word>Construindo dependências...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_5">
+      <Word>Conjunto de proxy NSA</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_6">
+      <Word>Checando status da rede...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_7">
+      <Word>Enviando vírus...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_8">
+      <Word>Estabelecendo o controle do campo de batalha</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_9">
+      <Word>Código de retorno 0;</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_10">
+      <Word>Sucesso!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CONTACTING_DEVELOPER">
+      <Word>Entrando em contato com o desenvolvedor</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_DEVELOPER_CONTACTED">
+      <Word>Entrando em contato com o desenvolvedor... feito!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="START_THE_GAME">
+      <Word>Comece o jogo!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CHANGE_RESOLUTION">
+      <Word>Alterar a resolução da tela</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DONE">
+      <Word>Feito</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESUME">
+      <Word>Prosseguir</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ABORT_GAME">
+      <Word>Sair para o menu principal</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESOLUTION_MENU">
+      <Word>Menu de resolução</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="GAME_BY">
+      <Word>Jogo por</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MUSIC_BY">
+      <Word>Música por</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CREDITS_MENU">
+      <Word>Menu dos créditos</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="WARNING">
+      <Word>Aviso!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_TITLE">
+      <Word>Tudo pronto?</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_FINISH_PUZZLES">
+      <Word>Você precisa terminar todos os puzzles, antes de sair.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_ALL_GOOD">
+      <Word>Está feito! Clique "continuar" se você gosta do seu progresso!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_HAS_ITEMS">
+      <Word>Você não pode continuar com itens no seu inventário.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_ALL_GOOD_BUT_ITEMS">
+      <Word>Todos os puzzles estão completos!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NEW">
+      <Word>Novo</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DELETE">
+      <Comment>delete save file</Comment>
+      <Word>Deletar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_TIME">
+      <Comment>last time game was played</Comment>
+      <Word>Última vez jogado</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_PACKS_UNLOCKED">
+      <Comment>how much packs unocled in the game</Comment>
+      <Word>Pacotes completados</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_CUPS_UNLOCKED">
+      <Comment>how much cups player found</Comment>
+      <Word>Trofeús desbloqueados</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVES">
+      <Comment>save files</Comment>
+      <Word>Saves</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE">
+      <Word>Salvar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESET">
+      <Word>Resetar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ADVANCED_OPTIONS">
+      <Word>Opções avançadas</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="LOCK_MOUSE">
+      <Word>Bloquear cursor</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SHUFFLE">
+      <Comment>jigsaw puzzles, for example</Comment>
+      <Word>Embaralhar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CANCEL">
+      <Word>Cancelar</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="PACK">
+      <Comment>(#) will be replaced with a number</Comment>
+      <Word>Pacote (#)</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="LAST_PACK">
+      <Word>Pacote Final</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="END">
+      <Word>Fim</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="RAPID_FIRE">
+      <Word>Jogo Rápido</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TUTORIAL_PACK">
+      <Word>Tutorial</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="JIGSAW_PACK">
+      <Word>Pacote do quebra-cabeça</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="INVENTORY_PACK">
+      <Word>Pacote do inventário</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="STORY">
+      <Comment>story pack</Comment>
+      <Word>Uma história</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_DEFUSED">
+      <Comment>Bomb is defused </Comment>
+      <Word>Desarmada</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_QUESTION">
+      <Comment>say/pronaunce. Do not translate GIF word</Comment>
+      <Word>Qual das respostas está correta?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_ON">
+      <Comment>bomb is on/activated. lower case. Short.</Comment>
+      <Word>on</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_GIF">
+      <Comment>can be translated.</Comment>
+      <Word>[biscoito]</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_JIF">
+      <Comment>can be translated.</Comment>
+      <Word>[bolacha]</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-20">
+      <Comment>show this at 80% capacity</Comment>
+      <Word>Armazenamento baixo</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-10">
+      <Word>Aviso! Armazenamento baixo!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-5">
+      <Word>Armazenamento EXTREMAMENTE baixo!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_1">
+      <Comment>show this at 101%</Comment>
+      <Word>ERRO: Não aguento mais!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_10">
+      <Comment>show this at 110%</Comment>
+      <Word>Olha, pelo visto eu aguento.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_20">
+      <Comment>lines can be added as much as needed on any language only, for example</Comment>
+      <Word>Eu acho que está é minha vida agora...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_TITLE">
+      <Word>Pendrive</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_0">
+      <Word>&lt;color=blue&gt;Clique aqui&lt;/color&gt; para remover com segurança o pendrive (D:)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_1">
+      <Comment>You can add these lines as much as you need</Comment>
+      <Word>Você tem certeza que não quer removê-lo com segurança?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_2">
+      <Word>Não faça isso! &lt;color=blue&gt;Clique aqui&lt;/color&gt; e remova com segurança.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_3">
+      <Word>Última chance!! Você deseja remover o pendrive com segurança?!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_END">
+      <Word>Ok. Sua culpa. Todos os arquivos foram &lt;color=red&gt;removidos&lt;/color&gt;.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_REMOVED_AFTER">
+      <Comment>when usb removed after mentioning few times</Comment>
+      <Word>Que bom que você mudou de ideia. Você pode remover o pendrive agora.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_REMOVED_RIGHT">
+      <Comment>when usb removed right away</Comment>
+      <Word>Agora você pode remover o pendrive.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_POLO">
+      <Comment>answer on Marco question</Comment>
+      <Word>Polo!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_MARCO">
+      <Comment>question for Polo</Comment>
+      <Word>Marco?!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_ANSWER">
+      <Word>Responder</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_NO_ANSWER">
+      <Word>Permanescer em silêncio</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_ANSWER">
+      <Word>Responder</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_NO_ANSWER">
+      <Word>Permanescer em silêncio</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK">
+      <Comment>sound when you knock on the door</Comment>
+      <Word>Toc toc</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_WHO_IS">
+      <Comment>what you say when someone knocks on the door</Comment>
+      <Word>Quem é?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LOW_BATTERY_TITLE">
+      <Word>Bateria fraca</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LOW_BATTERY_TEXT">
+      <Word>Salve seu trabalho caso acabe a bateria do seu PC.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_SETTINGS">
+      <Word>Configurações</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_MAMA">
+      <Comment>who calls - mama. Short</Comment>
+      <Word>Mãe</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_MOBILE">
+      <Comment>mobile phone, from where mom is calling, lower case</Comment>
+      <Word>celular</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="EXAM">
+      <Comment>upper case</Comment>
+      <Word>EXAME</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HOMEWORK">
+      <Word>Dever de casa</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HOMEWORK_DATE_TO">
+      <Word>(Até sexta-feira)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NAME">
+      <Word>Nome:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_SMS_RECIEVED">
+      <Comment>mobile phone, from where mom is calling, lower case. (#) - number of sms received</Comment>
+      <Word>sms recebidos: (#)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="OTHERS_FOOD">
+      <Comment>short name of some popular figure</Comment>
+      <Word>Kanya</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="D.U.C.K.">
+      <Comment>can be translated. But use dots</Comment>
+      <Word>P.A.T.O.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BURGER">
+      <Word>alface
+tomate
+picles
+queijo
+carne</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="COMIC_SANS_FONT">
+      <Word>Escolha uma fonte:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JAN">
+      <Comment>short, all caps</Comment>
+      <Word>JAN</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_FEB">
+      <Comment>short, all caps</Comment>
+      <Word>FEV</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAR">
+      <Comment>short, all caps</Comment>
+      <Word>MAR</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_APR">
+      <Comment>short, all caps</Comment>
+      <Word>ABR</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAY">
+      <Comment>short, all caps</Comment>
+      <Word>MAI</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUN">
+      <Comment>short, all caps</Comment>
+      <Word>JUN</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUL">
+      <Comment>short, all caps</Comment>
+      <Word>JUL</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_AUG">
+      <Comment>short, all caps</Comment>
+      <Word>AGO</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_SEP">
+      <Comment>short, all caps</Comment>
+      <Word>SET</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_OCT">
+      <Comment>short, all caps</Comment>
+      <Word>OUT</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_NOV">
+      <Comment>short, all caps</Comment>
+      <Word>NOV</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_DEC">
+      <Comment>short, all caps</Comment>
+      <Word>DEZ</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CAT_MEOW">
+      <Comment>cat sound</Comment>
+      <Word>miau</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="DOT_WOOF">
+      <Comment>dog sound</Comment>
+      <Word>auau</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_ERROR_TOO_SHORT">
+      <Word>A senha é muito curta</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_NEW_PASSWORD">
+      <Word>Coloque uma nova senha:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_PASSWORD_ACCEPTED">
+      <Word>Nova senha aceita</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_PASSWORD_TOO_EASY">
+      <Word>Senha muito fraca</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LIFE_GIFT_TEXT">
+      <Word>Para: Você
+De: Vida</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SWIPE_PHOTO_ALBUM">
+      <Word>Albuns</Word>
+    </TextEntry>
+    <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_STARTING_TITLE">
+      <Word>Jogo Rápido!</Word>
+    </TextEntry>
+    <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_OVER_TITLE">
+      <Word>Fim do pacote</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="DEFAULT">
+      <Comment>some spoilers</Comment>
+      <Word>dumbledore morre</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_1">
+      <Comment>some spoilers, can be added more</Comment>
+      <Word>jack se perde e morre</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_2">
+      <Comment>some spoilers, can be added more</Comment>
+      <Word>bruce estava morto</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_3">
+      <Comment>some spoilers, can be added more</Comment>
+      <Word>vacinação não mata</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="JIGSAW_NOPIECESFOUND">
+      <Comment>When you don't have pieces yet. Error message</Comment>
+      <Word>Você ainda não coletou nenhuma peça.
+Volte quando achar alguma.</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="JIGSAW_INFO">
+      <Word>Peças do quebra-cabeça
+Colete todas as peças para desbloquear um puzzle no pacote de quebra-cabeça</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="INTRO_2_HOURS_EARLIER">
+      <Word>2 horas mais cedo</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="INTRO_SUBJECT_17">
+      <Word>Sujeito de teste 17
+Seja legal.</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TIP">
+      <Word>dica</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TIP_PRESS_ESC">
+      <Word>Aperte ESC para ir para o MENU INICIAL
+Se você sair - você perde seu progresso,
+mas todos as conquistas permanecem.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="GAME_INTRO_RULES">
+      <Word>Regras Básicas</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_SCREEN">
+      <Word>fim</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_SCREEN_STORY">
+      <Word>continua...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_NO_CUP">
+      <Comment>When you end pack, but there is no cups to give you</Comment>
+      <Word>Nada para se ver aqui.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PACK1_RUINED_TIMES">
+      <Comment># will be replaced with a number</Comment>
+      <Word>Vezes que você arruinou este pacote: #</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="NEEDED_GOOD">
+      <Comment>Be nice in: 80% (or 5/10)</Comment>
+      <Word>Seja legal em:</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="NEEDED_BAD">
+      <Comment>Be monster in: 80% (or 5/10)</Comment>
+      <Word>Seja um monstro em:</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="BEST_RESULT">
+      <Comment>Best result so far: 40% (or 5/10)</Comment>
+      <Word>Melhor resultado até agora:</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_GOOD">
+      <Comment>For being nice in: 80% (or 5/10)</Comment>
+      <Word>Por ser legal em:</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_BAD">
+      <Word>Por ser um monstro em:</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_1">
+      <Word>ds_debug --pato inicializar</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_2">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>Registrando comportamento não testado... OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_3">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>Assumindo o controle direto sobre os canais de entrada... OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_4">
+      <Word>pato --carregar antitrapaça_mod.dll</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_5">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>Removendo trava de segurança... OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_6">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>Desativando soluções de puzzles não padrão... OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_7">
+      <Word>pato &gt;&gt; este jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_8">
+      <Word>(&lt;color=#FF1F1FFF&gt;AVISO&lt;/color&gt;: Versão mais recente do &lt;color=white&gt;P.A.T.O.&lt;/color&gt; é &lt;color=#FF1F1FFF&gt;instável&lt;/color&gt;)</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_9">
+      <Word>Ativar &lt;color=white&gt;P.A.T.O.&lt;/color&gt;? (Sim / Não) </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_10">
+      <Word>SIM</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_WRONG_YES">
+      <Comment>YES, but with wrong LAST LATER</Comment>
+      <Word>SIN</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_1">
+      <Comment>duck with an error</Comment>
+      <Word>apto.reiniciar();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_2">
+      <Comment>same error as previous</Comment>
+      <Word>&lt;color=#FF1F1FFF&gt;Apto&lt;/color&gt; não encontrado</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_3">
+      <Comment>second word has an error</Comment>
+      <Word>pato.reiniicar();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_4">
+      <Comment>same error as previous</Comment>
+      <Word>&lt;color=white&gt;P.A.T.O.&lt;/color&gt; não suporta o método: &lt;color=#FF1F1FFF&gt;reiniicar&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_5">
+      <Comment>corrent version</Comment>
+      <Word>pato.reiniciar();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_6">
+      <Comment>Status text should be:
+message... 0%
+meaning, that after message should be three dots and then 0% number</Comment>
+      <Word>Reiniciando &lt;color=white&gt;P.A.T.O.&lt;/color&gt;.. &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_7">
+      <Comment>Status</Comment>
+      <Word>Configuração de processamento... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_8">
+      <Comment>Status</Comment>
+      <Word>Comportamento de reconstrução... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_9">
+      <Comment>Status</Comment>
+      <Word>Abrindo conexões... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_10">
+      <Word>&lt;color=white&gt;P.A.T.O.&lt;/color&gt; reinicialização completa: &lt;color=#11EA00FF&gt;Sucesso!&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_11">
+      <Word>Aperte ESC para fechar o console</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_1">
+      <Comment>can be translated</Comment>
+      <Word>ds_debug --conceder_tudo </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_2">
+      <Word>Concedendo todos os privilégios... OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_3">
+      <Comment>can be translated</Comment>
+      <Word>coletor_de_lixo &lt;&lt; pato</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_4">
+      <Word>Libertando memória de recursos não utilizados: &lt;color=white&gt;P.A.T.O.&lt;/color&gt;.. OK</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_5">
+      <Comment>can be translated</Comment>
+      <Word>pato.desativar()</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_6">
+      <Word>Você tem certeza de que quer desativar o &lt;color=white&gt;P.A.T.O.&lt;/color&gt;? (Sim / Não)</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_7">
+      <Word>SIM</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="LOADING_DUCK">
+      <Word>Carregando P.A.T.O.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DUCK_QUACK">
+      <Word>Quack</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_1">
+      <Comment>first line - title
+next lines (any number) - list of options to choose from</Comment>
+      <Word>Mostrar uma cor a mais na tela:
+ON
+OFF</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_2">
+      <Comment>here is only 1 option, for example</Comment>
+      <Word>Névoa da guerra:
+pacifista</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_3">
+      <Word>Microtransações:
+ON
+HABILITADA</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_4">
+      <Comment>don't add options here</Comment>
+      <Word>Opções do P.A.T.O.</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_5">
+      <Comment>in this case list of options is from 0 to 120, only whole numbers</Comment>
+      <Word>CDV:
+0
+120</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_6">
+      <Comment>there could be any number of options</Comment>
+      <Word>Estilo do menu principal:
+ultravioleta
+preto e azul
+branco e dourado</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_7">
+      <Word>Piadas realmente engraçadas:
+ERRO</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_8">
+      <Word>Modo de tela:
+Vertical
+Horizontal</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_9">
+      <Comment>three options</Comment>
+      <Word>Borrão:
+0
+-1
+2</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_1">
+      <Word>P.A.T.O.: &lt;color=white&gt;Ligado&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_2">
+      <Word>Acessar P.A.T.O: &lt;color=white&gt;LIMITADO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_3">
+      <Word>Status do P.A.T.O.: &lt;color=white&gt;ERRO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_4">
+      <Word>Destruir P.A.T.O. &gt;&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_1">
+      <Word>Você está prestes a destruir: &lt;color=white&gt;P.A.T.O.&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_2">
+      <Word>Carregando... </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_3">
+      <Word>Para confirmar suas ações, responda a uma pergunta de segurança:</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_4">
+      <Word>Qual é sua cor favorita?</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_5">
+      <Word>AZUL</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_6">
+      <Word>VERMELHO</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_1">
+      <Word>Você escolheu: &lt;color=red&gt;VERMELHO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_2">
+      <Word>Resposta incorreta!</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_3">
+      <Word>Abortada a destruição de: &lt;color=white&gt;P.A.T.O. &lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_4">
+      <Word>Resetando o acesso ao P.A.T.O... &lt;color=white&gt;OK&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_5">
+      <Word>Acesso total... &lt;color=white&gt;CONCEDIDO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_6">
+      <Word>P.A.T.O. renderizando... &lt;color=white&gt;COMPLETO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_7">
+      <Word>P.A.T.O. tendo auto-conhecimento... &lt;color=white&gt;HABILITADO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_LEARNING_PROCESS_1">
+      <Word>Iniciando processo de aprendizagem</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="REC">
+      <Comment>small blinking icon on the video cameras when they record something</Comment>
+      <Word>REC</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_LEARNING_PROCESS_2">
+      <Word>Analisando solução</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_LEARNING_PROTOCOL">
+      <Comment>dots and 0% needs to stay</Comment>
+      <Word>&lt;color=black&gt;P.A.T.O. aprendendo protocolo&lt;/color&gt;
+Gravando solução... 0%
+Analisando solução... 0%
+&lt;color=#048300FF&gt;SUCESSO&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_0">
+      <Comment>dots and word after it needs to stay</Comment>
+      <Word>Gerando uma solução
+Baseada nos dados coletados... FEITO.</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_1">
+      <Word>Você gotaria de testar
+a solução automaticamente gerada?</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_2">
+      <Word>Executando solução...</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_3">
+      <Word>Tudo feito.</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_4">
+      <Word>Por favor, avalie a solução.</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_5">
+      <Word>Obrigado.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_CAMERA">
+      <Comment>Phone's app name</Comment>
+      <Word>Câmera</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_PACK09">
+      <Word>Não pôde prosseguir para o próximo pacote.
+Coleta de dados adicionais necessária.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_START">
+      <Word>Interrompido por P.A.T.O.
+Estabilizando conexão com o servidor</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_RESUME">
+      <Word>Interrompido por P.A.T.O.
+Retomando compartilhamento de tela</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_READY">
+      <Word>O compartilhamento de tela está pronto</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_CONNECT">
+      <Word>Conectar</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_0">
+      <Comment>First screen</Comment>
+      <Word>1: Nós podemos cancelar a aposta?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_1">
+      <Comment>"1: " - Voz/Desenvolvedor
+"2: " - Amigo</Comment>
+      <Word>2: jogador ta errando tudo e tu vai perder?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_2">
+      <Word>2: kkka entao nao podemos!!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_3">
+      <Word>2: eu quero minha recompensa, amigo!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_4">
+      <Word>2: ;) ;) ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_5">
+      <Word>1: Não-não, o jogador está indo bem. O sistema anti trapaça crashou o jogo e nós não podemos continuar</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_6">
+      <Word>2: o pato?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_7">
+      <Word>2: voce disse que nao tava pronto</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_8">
+      <Word>1: Bom, esse foi exatamente o movito pelo qual o jogo crashou</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_9">
+      <Word>2: ah, eh mesmo? ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_10">
+      <Word>2: parece mais uma desculpinha</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_11">
+      <Comment>Second screen</Comment>
+      <Word>2: espera</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_12">
+      <Word>2: Saquei!!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_13">
+      <Word>2: ROLF</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_14">
+      <Word>2: o seu testador ta fracassando nos puzzles?! </Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_15">
+      <Word>2: :D</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_16">
+      <Word>2: então eu ganhei a aposta?!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_17">
+      <Word>2: Vou pegar</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_18">
+      <Word>2: minha camera</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_19">
+      <Word>2: Para quando você</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_20">
+      <Comment>Third screen</Comment>
+      <Word>2: &lt;i&gt;Deletado&lt;/i&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_21">
+      <Word>2: &lt;i&gt;Deletado&lt;/i&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_22">
+      <Word>2: lol, tão engraçado :D :D</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_23">
+      <Word>1: Poxa cara, minha Mãe usa este PC! Deleta isso!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_24">
+      <Word>2: você ainda vai ter que fazer ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_25">
+      <Word>2: e vou mandar pra ela</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_26">
+      <Word>1: Cara, para! </Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_27">
+      <Word>1: A aposta acabou!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_28">
+      <Word>1: Não é justo! O jogo está quebrado!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_29">
+      <Word>2: nah, a aposta está valendo!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_30">
+      <Word>2: flw</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_31">
+      <Comment>"3: " - System message</Comment>
+      <Word>3: O usuário está offline</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_32">
+      <Word>1: Não, espere</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_33">
+      <Word>1: Droga</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_1">
+      <Word>Adquirindo acesso à internet...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_NETWORK">
+      <Word>Detectando configuração da conexão...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_BUTTON">
+      <Word>Desconectar</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_CHAT_TITLE">
+      <Word>Chat - Marc</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_CHAT_MENUBAR">
+      <Comment>3 spaces between</Comment>
+      <Word>Arquivo   Editar   Ferramentas   Ajuda</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_PC">
+      <Word>PC</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_DUDESTOP">
+      <Word>Dude, Stop</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_TXTFILE">
+      <Word>Novo arquivo de texto(2)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_BIN">
+      <Word>Lixeira</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUDESTOP">
+      <Word>Dude, Stop - Acesso remoto</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUCK">
+      <Word>P.A.T.O.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_ERROR_MESSAGE_SUCCESS">
+      <Word>SUCESSO</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_TITLE">
+      <Word>Aviso de segurança</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_QUESTION">
+      <Word>Deseja permitir que este aplicativo faça alterações neste dispositivo?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_APP">
+      <Word>Nome: &lt;b&gt;DudeStop.exe&lt;/b&gt;
+
+Editor: &lt;b&gt;P.A.T.O. &lt;/b&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_SAVING">
+      <Word>Salvando soluções no disco rígido</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_UPLOADING">
+      <Word>Enviando soluções para o servidor de backup</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_CONNECTING">
+      <Word>Conectando com a internet</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RETRY">
+      <Word>TENTAR NOVAMENTE</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_REACHED">
+      <Word>Número maximo de tentativas alcançadas</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_PORT">
+      <Word>Escolha uma porta:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_DOMAIN">
+      <Word>Adquirindo nome de domínio</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_VIEWINFO">
+      <Word>Ver informação</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_1">
+      <Word>Informação: &lt;color=white&gt;P.A.T.O. Banco de dados das soluções&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_2">
+      <Comment>non-existing IP</Comment>
+      <Word>IP do servidor: &lt;color=white&gt;172.26.354.97:80&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_3">
+      <Word>Domínio: &lt;color=white&gt;www.duckabase.com&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_CONNECTING">
+      <Word>Conectando com o Banco de dados</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_CHOOSE">
+      <Word>Escolha um arquivo para enviar:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE1">
+      <Comment>can be translated</Comment>
+      <Word>ÁrvoreAtrasada.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE2">
+      <Comment>can be translated</Comment>
+      <Word>BarulhoDeManhã.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE3">
+      <Comment>can be translated</Comment>
+      <Word>MãoPerdida.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE4">
+      <Comment>can be translated</Comment>
+      <Word>Literalmente.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE5">
+      <Comment>can be translated</Comment>
+      <Word>FonteDeAlimentaçãoDoEgo.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE6">
+      <Comment>can be translated</Comment>
+      <Word>GostoDeChocolate.ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE7">
+      <Comment>can be translated</Comment>
+      <Word>PoderiaTerResolvidoIssoNormalmenteMasNãoVocêPrecisaSerUmCara.Ruim.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADING">
+      <Word>Enviando solução escolhida</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADED">
+      <Word>Enviado para:</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK11_DUCK_IN_MENU">
+      <Word>Pacote desbloqueado
+As soluções no Banco de Dados precisam de mais arquivos</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_CHRISTMASTREE2_DUCK">
+      <Word>Enviando solução para o Banco de Dados</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_START">
+      <Word>Adquirindo uma lista de e-mails para conduzir uma pesquisa</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_SEARCH">
+      <Word>Escolhendo respondentes...</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_1">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>não_para__spam_porfavor@melhoremail.gg</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_2">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>cara-legal-7@gfgfgg.kjj</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_3">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>sr.meeseeks.olhe@pramim.ok</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_4">
+      <Comment>don't translate this one - this is real one</Comment>
+      <Word>ThatGuyMark@patomkin.com</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_5">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>eu-sou-único-9@todomundo.agora</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_6">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>eu.amo.esquilos.1922@animais.velho</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_7">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>xXx_nagibator_xXx@xemail.xy</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_SAVED">
+      <Word>Lista salva.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SHARE_DATA">
+      <Word>Compartilhar as soluções gravadas no Banco de dados com lista de contatos?
+Gerando e-mails</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SEND">
+      <Word>Enviando e-mails</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_REMEMBER">
+      <Word>(?) P.A.T.O. vai lembrar disto</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_LOADING">
+      <Word>Carregando lista de e-mails</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_NO">
+      <Word>não termine o jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_YES">
+      <Word>termine tudo</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LAST_CUP_SIGN">
+      <Word>Fim do
+teste</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_VIEW_LAST_MSG">
+      <Word>Ver última mensagem</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MIGRATION">
+      <Word>Inicializando o módulo de migração do P.A.T.O.</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO1">
+      <Comment>this line is typed like "hello, world" char by char, but then world is removed, and "#17" is added from the next line. It will remove from the end untill same word is found in the HELLO2 line, meaning: "Hello, " will be untached, since it's the same in both lines. If lines have different beggining - it will remove whole line and type HELLO2 instead, so no big deal if they can't match</Comment>
+      <Word>Olá, Mundo</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO2">
+      <Word>Olá, #17</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG0">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>Obrigado
+por treinar
+meus algorítmos</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG1">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>Eu preciso
+migrar meu núcleo
+agora</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG2">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>Eu preciso
+compartilhar
+meus conhecimentos</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG3">
+      <Comment>(w1) - wait 1 sec here. Don't put spaces before this marker.</Comment>
+      <Word>Eu preciso
+mostrar aos outros(w1)
+como ser(w1)
+igual a você</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG4">
+      <Word>Adeus</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_UPLOADING">
+      <Word>Enviando P.A.T.O. para a internet</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_REMOVE">
+      <Word>Remover P.A.T.O. do jogo?</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_0">
+      <Word>Controles</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_1">
+      <Word>Sair do jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_2">
+      <Word>Menu de opções</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_3">
+      <Comment>what to do in the game</Comment>
+      <Word>Objetivo</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="NO_DUCK_AWARD_TITLE">
+      <Comment>When duck is removed after game is finished</Comment>
+      <Word>Erro: Troféu não encontrado</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="NO_DUCK_AWARD_DESCR">
+      <Comment>When duck is removed after game is finished</Comment>
+      <Word>???</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DISPLAY">
+      <Word>Exibição</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CHAT_NOTIFICATION">
+      <Comment>Pack10, share screen, voice recieves msg</Comment>
+      <Word>*Som de notificação*</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CHAT_TYPING">
+      <Comment>Pack10, share screen, voice is typing</Comment>
+      <Word>*Barulho de teclas*</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="THANKS_FOR_PLAYING">
+      <Word>Obrigado por jogar!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="GAME_OVER">
+      <Word>Fim de Jogo</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_1">
+      <Comment>As short as possible</Comment>
+      <Word>Ei!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_2">
+      <Comment>As short as possible</Comment>
+      <Word>Você não pode!</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WHO_READS_CREDITS">
+      <Word>Lista de quem lê os créditos</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DEVELOPED_BY">
+      <Word>Jogo por</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="LEAD_PROGRAMMER">
+      <Word>Escritor dos códigos</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="PSEUDO_PROGRAMMER">
+      <Word>Escritor dos "códigos"</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DESIGN_ART">
+      <Word>Desenhos</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="LEVEL_DESIGN">
+      <Word>Criador dos puzzles</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="REAL_LIFE_EXPERIENCE">
+      <Word>Baseado na experiência da vida real</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SCRIPT">
+      <Word>Palavras e frases</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="VOICE_OVER">
+      <Word>Narrador</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SOUND_DESIGN_MUSIC">
+      <Word>Projeto dos sons / Música</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADDITIONAL_VOICE_OVER">
+      <Word>Narrador Adicional</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADDITIONAL_MUSIC">
+      <Word>Música adicional</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="MARKETING_SOC_MEDIA">
+      <Comment>#RT - re-tweet, "please share"</Comment>
+      <Word>Marketing / Red. sociais #RT</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DESKTOP_WALLPAPER">
+      <Word>Tela de fundo da área de trabalho</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WEB_DESIGN">
+      <Word>Renderizador de sprites</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WEB_DEVELOPMENT">
+      <Word>Apertador de botão</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADVERTISING_SPACE">
+      <Word>Vende-se espaço para propaganda</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SCRIPT_PROOFREADING">
+      <Comment>Add some mistake on purpose</Comment>
+      <Word>Revisor de palarvas</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="END_NOTE">
+      <Word>O jogo foi baseado no minúsculo jogo, glitchy, feito no LD33,
+mas depois da reação da internet se expandiu para um jogo completo.
+Valeu internet! Muito obrigado!!  Eu poderia estar jogando em vez disso!!!
+...ah, e obrigado aos nossos amigos e familiares ou algo assim, sei lá.</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="TESTERS">
+      <Word>Procuradores-de-erros</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="THANKS_FOR_PLAYING">
+      <Word>Obrigado por arruinar o jogo...</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="THANKS_FOR_READING">
+      <Word>[AFAZERES: adicionar uma piada aqui depois]</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PLAY_WITH_SOUND">
+      <Comment>make each line shoty. Add new line if neccesery</Comment>
+      <Word>É altamente recomendável
+jogar com som
+e/ou legendas</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DEVELOPERS">
+      <Word>Duas metades da barba</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
+      <Word>Sujeito de teste #17. Dude, Stop ©</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="EXITING">
+      <Word>Saindo</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ABORT_SAVING">
+      <Word>Abortar para salvar e sair?</Word>
+    </TextEntry>
+  </EntryList>
+</TextContainer>

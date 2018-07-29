@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AwardContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and Index.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <AwardEntry index="2">
+      <comment>Troféu ruim, Troféu da lata de lixo</comment>
+      <titleAcquired>Troféu de lixo</titleAcquired>
+      <titleNotAcquired>Um troféu</titleNotAcquired>
+      <descriptionAcquired>Eu sugiro que você lave suas mãos depois de tocar nele.</descriptionAcquired>
+      <descriptionNotAcquired>Termine o pacote para consegui-lo.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="68">
+      <comment>Por completar o primeiro pacote três vezes</comment>
+      <titleAcquired>Troféu flashback</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Se lembra daquele momento que você completou o primeiro pacote três vezes por nenhuma razão? Bem, esse troféu serve como lembrança.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>Pare de vir aqui!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="4">
+      <comment>Troféu ruim, Losango enferrujado, quebrado</comment>
+      <titleAcquired>Troféu quebrado</titleAcquired>
+      <titleNotAcquired>Losango A?</titleNotAcquired>
+      <descriptionAcquired>Como você se sente em ver aquelas peças faltando, sabendo que você nunca vai conseguir termina-lô? Algum desconforto? Raiva? Uma dor de garganta? Isso é bom. Significa que está funcionando.</descriptionAcquired>
+      <descriptionNotAcquired>Complete o quebra-cabeça para desbloquear isso.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="5">
+      <comment>Troféu bom,  losango dourado que você completou com aquelas peças</comment>
+      <titleAcquired>Troféu sueco</titleAcquired>
+      <titleNotAcquired>Losango B!</titleNotAcquired>
+      <descriptionAcquired>Não é relacionado à Suécia.</descriptionAcquired>
+      <descriptionNotAcquired>Complete o quebra-cabeça para desbloquear isso.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="6">
+      <comment>Troféu ruim, Troféu pequeno de metal</comment>
+      <titleAcquired>Troféu pequeno</titleAcquired>
+      <titleNotAcquired>Troféu ruim</titleNotAcquired>
+      <descriptionAcquired>Quero dizer, é perfeitamente normal ter um troféu pequeno.</descriptionAcquired>
+      <descriptionNotAcquired>Isso esta aqui por apenas motivos de teste.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="7">
+      <comment>Troféu bom, Troféu dourado longo</comment>
+      <titleAcquired>Troféu longo</titleAcquired>
+      <titleNotAcquired>Troféu bom</titleNotAcquired>
+      <descriptionAcquired>Esse aqui deve levar sua auto-estima as alturas!</descriptionAcquired>
+      <descriptionNotAcquired>Vá pegá-lo, garoto!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="30">
+      <comment>Por empurrar a peça com muita força, peça de domino</comment>
+      <titleAcquired>Dominó</titleAcquired>
+      <titleNotAcquired>Dominó</titleNotAcquired>
+      <descriptionAcquired>Você detonou! Não me entenda mal - é errado fazer deste jeito, mas ainda é pura diversão.</descriptionAcquired>
+      <descriptionNotAcquired>Um prêmio de conquista! Vá &lt;b&gt;em algum lugar&lt;/b&gt;, faça &lt;b&gt;alguma coisa&lt;/b&gt; e você com certeza irá conseguir. Entendeu?</descriptionNotAcquired>
+      <shortDescriptionAcquired>Faça o giro</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="72">
+      <comment>Por colocar o selo perfeitamente</comment>
+      <titleAcquired>Selo raríssimo</titleAcquired>
+      <titleNotAcquired>Selo</titleNotAcquired>
+      <descriptionAcquired>Sua colagem estava no ponto!</descriptionAcquired>
+      <descriptionNotAcquired>Lamba e cole.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="31">
+      <comment>100% mal, Troféu de madeira</comment>
+      <titleAcquired>Liga de madeira</titleAcquired>
+      <titleNotAcquired>Por ser o pior</titleNotAcquired>
+      <descriptionAcquired>Você é tão mal que nem merece um troféu de metal. Leve este pedaço de madeira.</descriptionAcquired>
+      <descriptionNotAcquired>QUEBRE TUDO!! Rarrr!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="32">
+      <comment>100% bom, Troféu longo pequeno</comment>
+      <titleAcquired>O Irmãozinho do Troféu longo</titleAcquired>
+      <titleNotAcquired>Por ser o melhor</titleNotAcquired>
+      <descriptionAcquired>Metade do tamanho, o dobro do resultado.</descriptionAcquired>
+      <descriptionNotAcquired>NÃO QUEBRE TUDO!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="22">
+      <comment>Troféu ruim, Chapéu de um restaurante bistrô</comment>
+      <titleAcquired>Chapéu de salário baixo</titleAcquired>
+      <titleNotAcquired>"F"</titleNotAcquired>
+      <descriptionAcquired>A classificação do chapéu foi: McSANDUBA.</descriptionAcquired>
+      <descriptionNotAcquired>é de Fracasso.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="23">
+      <comment>Troféu bom, Chapéu de graduação da universidade</comment>
+      <titleAcquired>Chapéu de alguma universidade</titleAcquired>
+      <titleNotAcquired>Meta da educação</titleNotAcquired>
+      <descriptionAcquired>Parece pesado. Provavelmente por causa das divídas.
+[Alguns de vocês podem não entender essa piada, além disso, não é uma piada. Envie dinheiro... por favor]</descriptionAcquired>
+      <descriptionNotAcquired>Seu passaporte para o futuro... pacote!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="56">
+      <comment>100% mal, Medalha de chocolate</comment>
+      <titleAcquired>Uma medalha com passas</titleAcquired>
+      <titleNotAcquired>Causa perdida</titleNotAcquired>
+      <descriptionAcquired>Algo pra você comer ao invés de cola.</descriptionAcquired>
+      <descriptionNotAcquired>Nasceeeeeu para seeer buUUUrro!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="63">
+      <comment>Complete o pacote em 15 segundos, Estrela dourada</comment>
+      <titleAcquired>Feito em 20 segundos</titleAcquired>
+      <titleNotAcquired>Sem tempo para explicar</titleNotAcquired>
+      <descriptionAcquired>Você pulou as perguntas mais rápido do que aceitar qualquer licença.</descriptionAcquired>
+      <descriptionNotAcquired>Vamos lá, entra e sai, exame de vinte segundos!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="10">
+      <comment>Troféu ruim, Troféu com um spoiler</comment>
+      <titleAcquired>Troféu com Spoiler</titleAcquired>
+      <titleNotAcquired>Um presente indesejado</titleNotAcquired>
+      <descriptionAcquired>Um presente que você continua sendo dado.
+
+A propósito, &lt;color=white&gt;!! ALERTA DE SPOILER !!&lt;/color&gt;</descriptionAcquired>
+      <descriptionNotAcquired>Você nunca vai ver ele chegando.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="11">
+      <comment>Troféu bom, Troféu de peças</comment>
+      <titleAcquired>Troféu quadriculado</titleAcquired>
+      <titleNotAcquired>Troféu quadriculado</titleNotAcquired>
+      <descriptionAcquired>Construa você mesmo. E não se preocupe, não é uma competição.
+
+Ou será?</descriptionAcquired>
+      <descriptionNotAcquired>Um formato estranho. O que poderia ser?</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="33">
+      <comment>Por cortar a pizza em 11 pedaços, troféu é um cortador de pizza</comment>
+      <titleAcquired>Onze</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Você conseguiu 11 pedaços em 4 cortes. Você é tipo um gênio matemático ou algo assim? Ou apenas um samurai da pizza.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="34">
+      <comment>100% mal, Pedra de estimação</comment>
+      <titleAcquired>A pedra</titleAcquired>
+      <titleNotAcquired>Troféu ruim 2: O Retorno do mal</titleNotAcquired>
+      <descriptionAcquired>Tem muitos tipos de pedras de estimação: pedras duras, pedras pesadas, pedras leves... e nenhuma delas é um mineral!</descriptionAcquired>
+      <descriptionNotAcquired>Igual a um disco quebrado...</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="35">
+      <comment>100% bom, o chato dourado</comment>
+      <titleAcquired>Troféu dourado</titleAcquired>
+      <titleNotAcquired>Puro ouro</titleNotAcquired>
+      <descriptionAcquired>Ouro é um elemento químico com o símbolo Au e número atômico 79. Na sua forma mais pura, ele é um metal dúctil, tem um tom de amarelo mais claro e avermelhado, é denso, leve e maleável.</descriptionAcquired>
+      <descriptionNotAcquired>O melhor dos melhores dos melhoreses</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="73">
+      <comment>Coloque os gizes de cabeça para baixo</comment>
+      <titleAcquired>Gizes de cera brancos</titleAcquired>
+      <titleNotAcquired>De Ponta-cabeça</titleNotAcquired>
+      <descriptionAcquired>É tipo uma caixa de chocolates - você nunca sabe o que tem dentro. Exceto que você sabe - um giz. Branco, ínutil e nem um pouco gostoso. Algumas vezes de cabeça para baixo.</descriptionAcquired>
+      <descriptionNotAcquired>Empilhamento reverso</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="64">
+      <comment>Por cortar a casca fora, o troféu é um abacaxi</comment>
+      <titleAcquired>A BORDA É LAVA!</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Você vai comer.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="65">
+      <comment>Corte a pizza mas evite todo o pepperoni, troféu é um colar de pizza</comment>
+      <titleAcquired>Eu não vou te machucarne</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Não jogue campo minado com sua comida! Ou é campo salamenado? PIM!</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="66">
+      <comment>Consiga conquistas de pizza(não é uma conquista atual, apenas escreva coisas de pizza)</comment>
+      <titleAcquired>Pizza Mania</titleAcquired>
+      <titleNotAcquired>Pizza Mania</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Só as bordas!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="12">
+      <comment>Troféu ruim, Pilha de limões</comment>
+      <titleAcquired>Pilha de limões</titleAcquired>
+      <titleNotAcquired>Plano B</titleNotAcquired>
+      <descriptionAcquired>Em uma escala de A até F você ganha uma oferta saudável de vitamina C. </descriptionAcquired>
+      <descriptionNotAcquired>No caso de tudo dar terrívelmente errado.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="13">
+      <comment>Troféu bom, Bolo de chocolate</comment>
+      <titleAcquired>Troféu de bolo</titleAcquired>
+      <titleNotAcquired>Parece um bolo</titleNotAcquired>
+      <descriptionAcquired>Mmmmm... bolo!</descriptionAcquired>
+      <descriptionNotAcquired>Eu penso, seria um de chocolate? Ou de sorvete?
+Bem, resolva tudo para descobrir!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="36">
+      <comment>Todos os puzzles do bom gatinho, o troféu é um  rato de brinquedo</comment>
+      <titleAcquired>Ratinho</titleAcquired>
+      <titleNotAcquired>Troféu de brincar</titleNotAcquired>
+      <descriptionAcquired>Anime o seu bom gato dando a ele um ratinho de brinquedo!
+
+Digo, eu acho que é de brinquedo... por favor que ele seja um brinquedo!
+(Por ser bom em todos os puzzles de gato)</descriptionAcquired>
+      <descriptionNotAcquired>Um brinquedo para um bom gato.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="37">
+      <comment>Todos os puzzles do bom cãozinho, o troféu é um osso</comment>
+      <titleAcquired>Osso</titleAcquired>
+      <titleNotAcquired>A recompensa</titleNotAcquired>
+      <descriptionAcquired>DeliciOSSO!
+(Por ser bom em todos os puzzles de cachorrinho)</descriptionAcquired>
+      <descriptionNotAcquired>Quem é o bom cãozinho? Mas quem é um bom cãozinho?</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="38">
+      <comment>Todos os quebra-cabeça do mal cãozinho, parece um cone médico em um cachorro</comment>
+      <titleAcquired>Cone da vergonha</titleAcquired>
+      <titleNotAcquired>A punição</titleNotAcquired>
+      <descriptionAcquired>Para o seu próprio b... mal!
+(Por ser mal em todos os puzzles de cachorro)</descriptionAcquired>
+      <descriptionNotAcquired>Cão mal! Sem biscoito!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="39">
+      <comment>Todos os puzzles do gatinho mal, o troféu é uma garrafa de spray com água</comment>
+      <titleAcquired>Spray d'água</titleAcquired>
+      <titleNotAcquired>Frasco de troféu</titleNotAcquired>
+      <descriptionAcquired>Molhe seus gatos hoje!
+Por um preço baixo de puzzles arruinados, você pode punir o seu gatinho! 
+(Por ser mal em todos os puzzles de gato)</descriptionAcquired>
+      <descriptionNotAcquired>Insira as palavras faltando:
+Quando gatos são malvados, _____ _____ _____ .</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="40">
+      <comment>Gato molhado em um lívro</comment>
+      <titleAcquired>Gato encharcado</titleAcquired>
+      <titleNotAcquired>Gato alguma-coisa</titleNotAcquired>
+      <descriptionAcquired>Dois copos d'água, um gato e voila. Mas nada mais que dois voila.
+[Nenhum animal foi ferido na criação desse jogo, exceto galinha. Deliciosa-deliciosa galinha.]</descriptionAcquired>
+      <descriptionNotAcquired>Quando você está no lugar errado, na hora errada.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="14">
+      <comment>Troféu ruim, P.A.T.O.</comment>
+      <titleAcquired>P.A.T.O.</titleAcquired>
+      <titleNotAcquired>Troféu infeliz</titleNotAcquired>
+      <descriptionAcquired>Quack.</descriptionAcquired>
+      <descriptionNotAcquired>Quando a sorte não está ao seu lado e você começa a perder DE PROPÓSITO.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="15">
+      <comment>Troféu bom, Troféu com doces</comment>
+      <titleAcquired>Troféu de doces</titleAcquired>
+      <titleNotAcquired>Doces</titleNotAcquired>
+      <descriptionAcquired>Doce doce sentimento de vitória.</descriptionAcquired>
+      <descriptionNotAcquired>Apenas crianças obedientes ganham esse.
+.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="41">
+      <comment>100% good, Sorvete</comment>
+      <titleAcquired>SORVETÃO</titleAcquired>
+      <titleNotAcquired>Sobremesa surpresa</titleNotAcquired>
+      <descriptionAcquired>Não se preocupe, não irá derreter - é feito de pó de pixels!</descriptionAcquired>
+      <descriptionNotAcquired>Vou passar na sua rua com uma música no calor.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="42">
+      <comment>100% bad, Stuff from pockets</comment>
+      <titleAcquired>Tudo que você merece</titleAcquired>
+      <titleNotAcquired>Tudo que eu tinha</titleNotAcquired>
+      <descriptionAcquired>Uma moeda, uma escova de dentes velha e algumas sujeiras de umbigo.</descriptionAcquired>
+      <descriptionNotAcquired>Parece ser muito, mas não se exalte.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="43">
+      <comment>Hundreat photos of cat</comment>
+      <titleAcquired>Foto de gato</titleAcquired>
+      <titleNotAcquired>Clique 3000</titleNotAcquired>
+      <descriptionAcquired>Veja meu gato, meu gato é incrível</descriptionAcquired>
+      <descriptionNotAcquired>"Não me pare agora,
+eu não quero parar de jeito nenhum"</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="16">
+      <comment>Bad cup, Old shoe</comment>
+      <titleAcquired>Tênis velho e fedido</titleAcquired>
+      <titleNotAcquired>Rápido e fedido</titleNotAcquired>
+      <descriptionAcquired>Trás tantas memórias... e um fedor selvagem.</descriptionAcquired>
+      <descriptionNotAcquired>Você pode supor como deve agir para consegui-lo - bom ou ruim</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="17">
+      <comment>Good cup, Turbo snail</comment>
+      <titleAcquired>CARACOL TURBO</titleAcquired>
+      <titleNotAcquired>O melhor dos piores</titleNotAcquired>
+      <descriptionAcquired>É literalmente isso.</descriptionAcquired>
+      <descriptionNotAcquired>...o que poderia ser?! Seja bom e descubra!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="44">
+      <comment>100% good, Big lightning</comment>
+      <titleAcquired>Raio</titleAcquired>
+      <titleNotAcquired>Um prêmio</titleNotAcquired>
+      <descriptionAcquired>Às vezes ser o mais rápido é bom.</descriptionAcquired>
+      <descriptionNotAcquired>Parece que forma um relâmpago.
+(Cada jogo apresenta puzzles diferentes)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="45">
+      <comment>100% bad, Items that break fast. Other text is in a WORDS file (SLOWRAPID_CUP)</comment>
+      <titleAcquired>Rápido e errado</titleAcquired>
+      <titleNotAcquired>Rápido e errado</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Normalmente, indo devagar e com calma, você ganharia o jogo, mas pelo jeito isso não se aplica a você.
+(Cada jogada apresenta puzzles diferentes)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="46">
+      <comment>Broken elevator, looks like stairs</comment>
+      <titleAcquired>Escadas</titleAcquired>
+      <titleNotAcquired>Quebrado</titleNotAcquired>
+      <descriptionAcquired>Alguém vai ter que ir andando.</descriptionAcquired>
+      <descriptionNotAcquired>FORA DE SERVIÇO</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="74">
+      <comment>String from a Jacket Hoody, for taking it off</comment>
+      <titleAcquired>O cordão</titleAcquired>
+      <titleNotAcquired>A jaqueta</titleNotAcquired>
+      <descriptionAcquired>E você não consegue pôr de volta.</descriptionAcquired>
+      <descriptionNotAcquired>Sem cordões.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="67">
+      <comment>See all puzzles in a pack, looks like  and eye</comment>
+      <titleAcquired>Eu vi de tudo</titleAcquired>
+      <titleNotAcquired>Troféu que tudo vê</titleNotAcquired>
+      <descriptionAcquired>Você sabe todos os atalhos daqui. Você praticamente domina o lugar.</descriptionAcquired>
+      <descriptionNotAcquired>Ao redor do mundo</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="18">
+      <comment>Bad cup, Claw</comment>
+      <titleAcquired>A Garra</titleAcquired>
+      <titleNotAcquired>Péssimo mistério</titleNotAcquired>
+      <descriptionAcquired>A Garra é seu mestre, ela irá decidir quem é bom ou ruim. E você já sabe o julgamento.</descriptionAcquired>
+      <descriptionNotAcquired>Você mal pode esperar.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="19">
+      <comment>Good cup, Robocup</comment>
+      <titleAcquired>Robocup</titleAcquired>
+      <titleNotAcquired>Troféu aprimorado</titleNotAcquired>
+      <descriptionAcquired>Porque não podemos arriscar uma violação de direitos autorais.</descriptionAcquired>
+      <descriptionNotAcquired>Este troféu pode estar danificado, mas podemos consertá-lo.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="47">
+      <comment>100% bad, Milk and cookies</comment>
+      <titleAcquired>Seco para sempre</titleAcquired>
+      <titleNotAcquired>Troféu frustrante</titleNotAcquired>
+      <descriptionAcquired>Você nunca vai conseguir molhá-lo.</descriptionAcquired>
+      <descriptionNotAcquired>Você não quer isso. Você acha que quer, mas não.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="48">
+      <comment>100% good, cookies</comment>
+      <titleAcquired>Pilha de biscoitos</titleAcquired>
+      <titleNotAcquired>Vitória crocante</titleNotAcquired>
+      <descriptionAcquired>Para saciar seu dente de leite.</descriptionAcquired>
+      <descriptionNotAcquired>Pilha de gostosuras.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="49">
+      <comment>Wash only 1 piece</comment>
+      <titleAcquired>Máquina manual</titleAcquired>
+      <titleNotAcquired>De lavada!</titleNotAcquired>
+      <descriptionAcquired>Continue gastando água, e o seu próximo prêmio será uma pedra ao lado do rio.</descriptionAcquired>
+      <descriptionNotAcquired>Lave com responsabilidade.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="50">
+      <comment>In 31 moves</comment>
+      <titleAcquired>31 Perfeito</titleAcquired>
+      <titleNotAcquired>Perfecto?</titleNotAcquired>
+      <descriptionAcquired>É como se você soubesse como resolvê-lo perfeitamente. Suspeito.</descriptionAcquired>
+      <descriptionNotAcquired>Apenas crianças do anos 90 vão entender. E dos anos 00's. E todos os outros. Basicamente, qualquer um que saiba as regras.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Perfeição.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="51">
+      <comment>In less than 31 moves</comment>
+      <titleAcquired>Um trapaçeiro?!</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Como que você fez isso?! Menos de 31 movimentos?! Impossível!</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>
+                 sim</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="52">
+      <comment>Correct order, and big one was never on the small one</comment>
+      <titleAcquired>Ordem importa</titleAcquired>
+      <titleNotAcquired>Vitória técnica</titleNotAcquired>
+      <descriptionAcquired>Essa é a única regra que você decidiu seguir, né?</descriptionAcquired>
+      <descriptionNotAcquired>Apenas resolva mais cedo ou mais tarde.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="20">
+      <comment>Bad cup, Potato</comment>
+      <titleAcquired>Batata</titleAcquired>
+      <titleNotAcquired>Vegetal</titleNotAcquired>
+      <descriptionAcquired>Você pode ferver, fritar, assar, cortar... ah espera, você não pode! MUAHAHAHAHAHA*
+
+*Definitivamente não é uma risada falsa</descriptionAcquired>
+      <descriptionNotAcquired>Nem é uma fruta! É apenas um vegetal chato e tedioso.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="21">
+      <comment>Good cup, Golden case</comment>
+      <titleAcquired>Maleta de lixo</titleAcquired>
+      <titleNotAcquired>Item-mania</titleNotAcquired>
+      <descriptionAcquired>Espera. Não é lixo! São memórias!</descriptionAcquired>
+      <descriptionNotAcquired>Para os HErDEIros!!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="53">
+      <comment>100% bad, </comment>
+      <titleAcquired>Troféu sem sentido</titleAcquired>
+      <titleNotAcquired>Troféu desnecessário</titleNotAcquired>
+      <descriptionAcquired>Não tinha o porque, mas você ainda o conquistou. &lt;b&gt;Parabéns&lt;/b&gt; por perder seu tempo por causa de um coletável mal desenhado!</descriptionAcquired>
+      <descriptionNotAcquired>Você não precisa desse. 
+Apenas ignore. 
+Você vai ficar bem sem ele, eu prometo.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="54">
+      <comment>100% good, golden pen</comment>
+      <titleAcquired>A Caneta Dourada</titleAcquired>
+      <titleNotAcquired>Mestre de inventário</titleNotAcquired>
+      <descriptionAcquired>Algo para se usar na escrita.</descriptionAcquired>
+      <descriptionNotAcquired>Aquele sentimento quando você faz malabarismo com itens como um profissional e é recompensado por isso.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="55">
+      <comment>All pictures in right order, cup is a kids pic</comment>
+      <titleAcquired>Desenhos de criança</titleAcquired>
+      <titleNotAcquired>"Ficou bom"</titleNotAcquired>
+      <descriptionAcquired>Você não gosta deles, mas não pode jogá-los fora.</descriptionAcquired>
+      <descriptionNotAcquired>As mentiras que contamos para nossas crianças...</descriptionNotAcquired>
+      <shortDescriptionAcquired>É uma imagem ordem-nária.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="24">
+      <comment>Bad cup, Monster cup</comment>
+      <titleAcquired>Troféu monstro</titleAcquired>
+      <titleNotAcquired>O terror</titleNotAcquired>
+      <descriptionAcquired>Ele está olhando para sua alma... e a alma atrás de você.</descriptionAcquired>
+      <descriptionNotAcquired>Eu te imploro!! Não dessa forma!! Sou muito jovem para perder!! AAAAAAAAAAAAAAaaaaaaaaaa&lt;size=16&gt;aaaaaaaaaaaaaa&lt;/size&gt;</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="25">
+      <comment>Good cup, Holy grail</comment>
+      <titleAcquired>Cálice sagrado</titleAcquired>
+      <titleNotAcquired>O ancião</titleNotAcquired>
+      <descriptionAcquired>Você se provou de ser digno.</descriptionAcquired>
+      <descriptionNotAcquired>Escondido atrás de charadas e poeira.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="58">
+      <comment>100% bad, Rusty metal cup</comment>
+      <titleAcquired>Troféu enferrujado</titleAcquired>
+      <titleNotAcquired>Troço velho</titleNotAcquired>
+      <descriptionAcquired>Ei, psiu, moleque, chega aqui. Quer um pouco de tétano?</descriptionAcquired>
+      <descriptionNotAcquired>Porque você merece.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="59">
+      <comment>100% good, Golden cup</comment>
+      <titleAcquired>Mais um troféu de ouro</titleAcquired>
+      <titleNotAcquired>Recompensa de ouro</titleNotAcquired>
+      <descriptionAcquired>Mais uma descrição inútil.</descriptionAcquired>
+      <descriptionNotAcquired>Minha imaginação acaba aqui.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="60">
+      <comment>Chocolate cream</comment>
+      <titleAcquired>Pão morto</titleAcquired>
+      <titleNotAcquired>Hora do pesadelo</titleNotAcquired>
+      <descriptionAcquired>Irá te assombrar para sempre.</descriptionAcquired>
+      <descriptionNotAcquired>"...Ela entrou na sala, e lá estava ele - parado em choque e pavor, sem a faca na mão, olhando para oque ele tinha feito..."</descriptionNotAcquired>
+      <shortDescriptionAcquired>Feliz em te comer!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="26">
+      <comment>Bad cup, Golden, #17 text</comment>
+      <titleAcquired>Recompensa de valorização</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Obrigado, Ajudante de teste #17, por participar no teste pago do jogo Dude, Stop. Você foi &lt;color=red&gt;PÉSSIMO&lt;/color&gt;... mas pelo menos você tentou.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="76">
+      <comment>Can be same as cup #69</comment>
+      <titleAcquired>Último troféu</titleAcquired>
+      <titleNotAcquired>Último troféu</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Fim de jogo, cara! Fim de jogo!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="27">
+      <comment>Good cup, Treasure chest with gold</comment>
+      <titleAcquired>Baú de tesouro</titleAcquired>
+      <titleNotAcquired>Cheio de recompensas</titleNotAcquired>
+      <descriptionAcquired>Veio de lá do fundo, e agora está aqui.</descriptionAcquired>
+      <descriptionNotAcquired>Mais do que você imagina.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="61">
+      <comment>100% bad, Angry cactoos</comment>
+      <titleAcquired>Troféu raivoso</titleAcquired>
+      <titleNotAcquired>Última gota</titleNotAcquired>
+      <descriptionAcquired>De um desenvolvedor irritado. Coma.</descriptionAcquired>
+      <descriptionNotAcquired>Seja bom, ou só dê ALT+F4</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="62">
+      <comment>100% good, boring golden one</comment>
+      <titleAcquired>Último ouro</titleAcquired>
+      <titleNotAcquired>Último empurrão</titleNotAcquired>
+      <descriptionAcquired>Agora você pode mergulhar em ouro.</descriptionAcquired>
+      <descriptionNotAcquired>Tenha coragem, consiga glória.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="70">
+      <comment>Foto censurada</comment>
+      <titleAcquired>Fruta da baixaria</titleAcquired>
+      <titleNotAcquired>Grandes números</titleNotAcquired>
+      <descriptionAcquired>Ha-ha, engraçadinho.
+...
+Saia daqui.</descriptionAcquired>
+      <descriptionNotAcquired>O truque mais velho de todos.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="71">
+      <comment>Upside down tree</comment>
+      <titleAcquired>Natal Australiano</titleAcquired>
+      <titleNotAcquired>Um mundo paralelo</titleNotAcquired>
+      <descriptionAcquired>Parça.</descriptionAcquired>
+      <descriptionNotAcquired>Feriado, mas de ponta-cabeça.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="69">
+      <comment>Text only, no cup</comment>
+      <titleAcquired>Último troféu</titleAcquired>
+      <titleNotAcquired>Último troféu</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Fim de jogo, cara! Fim de jogo!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="75">
+      <comment>Secret achievement, when you exit the game</comment>
+      <titleAcquired>Porta secreta</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired />
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>Saiu quando era relevante.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="28">
+      <comment>When you collect all 60+ cups in the game</comment>
+      <titleAcquired>Completista</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Parabéns! Você foi um passo à frente para irritar o desenvolvedor e todos ao seu redor. Quanta gentileza. Muito heróico. Uau. *palmas lentas*
+(Por desbloquer todos os troféis no jogo)</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+  </EntryList>
+</AwardContainer>
