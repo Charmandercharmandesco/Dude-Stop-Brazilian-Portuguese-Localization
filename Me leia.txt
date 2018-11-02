@@ -1,2 +1,3 @@
 # Dude-Stop-Brazilian-Portuguese-Localization
 Por favor, crie uma nova pasta na pasta "Localization" e ponha esses três arquivos lá, menos o README é claro. Exemplo: Dude, Stop/Localization/pt_BR.
+Os arquivos Awards0, Texts0 e Voices0 são os arquivos com as coisas do Halloween e com as novas frases adicionadas. Coloque eles junto com os arquivos Awards, Texts e Voices.
