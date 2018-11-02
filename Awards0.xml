@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AwardContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and Index.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <AwardEntry index="77">
+      <comment>Troféu de Halloween, # - will be replaced with a number</comment>
+      <titleAcquired>Fruta do Halloween</titleAcquired>
+      <titleNotAcquired>Fantasma (#) do Halloween do Futuro</titleNotAcquired>
+      <descriptionAcquired>Tempero e café com leite não incluso</descriptionAcquired>
+      <descriptionNotAcquired>Há alguma coisa estranha
+Na vizinhança...</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="78">
+      <comment>Troféu de Natal para o Natal.</comment>
+      <titleAcquired>Presente de Natal</titleAcquired>
+      <titleNotAcquired>Loot box de Natal</titleNotAcquired>
+      <descriptionAcquired>Contém todas as coisas do mundo... exceto as coisas que você realmente quer.</descriptionAcquired>
+      <descriptionNotAcquired>Não custa nada e ainda assim é muito caro.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+  </EntryList>
+</AwardContainer>

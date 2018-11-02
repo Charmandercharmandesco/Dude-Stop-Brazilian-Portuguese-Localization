@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE GUID and Subtitles ID.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <VoiceEntry GUID="6168dbef-e5da-8eb7-3678-4c239761cc51" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Fato engraçado: VOCÊ PERDEU</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="222ef824-6b9a-7039-b9c5-edc36b93a699" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Por que você está fazendo isso, e sim, sou bravo!</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>Oi bravo
+Sou seu pai</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="5aaa3fd0-f345-213a-960d-53651be195cc" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Siiiniiiistuuubroooooo!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Khm. Khe.
+Desculpa, Jogador.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="8cc7d1a0-f9cf-d16a-c5bc-f3d682a20389" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Ah cara, a pessoa que inventou as abóboras
+está ficando tãooo rico agora!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Não estou certo, Jogador?</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="46c96d13-ed7e-85fe-73a7-733cea2dd624" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Ah, eu gosto do Halloween! Doces e... *mastigando*</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>&lt;color=yellow&gt;[Crianças do lado de fora]
+DOCES OU TRAVESSURAS
+DOCES OU TRAVESSURAS
+DOCES OU TRAVESSURAS&lt;/color&gt;</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>*mastigando* Vão embora!! Ninguém está em casa!!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>Oh, Jogador! *mastigando*
+Tudo em cima?</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="21f789bf-1fba-d409-5cbb-40a752f37a47" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Parem de roubar minhas abóboras!...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Malditos VEGETARIANOS!!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>Ah, Oi Testador.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="977d45bf-4d21-e85d-d74b-4e3ce8e2cb93" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Ei! Feliz Natal!...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Ah, droga, muito cedo.</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>*suspiro* Vamos tentar de novo.</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>*fecha o jogo*</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="f3d09795-b09a-ff85-8eaa-3490de07d9a3" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Testador, Feliz dia de dar meias!</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="8d27e3cc-f752-5f4f-9010-768b535da368" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Papai Noel não existe! BUU-YAA!!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Jogador, por favor, não me desinstale...</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="49be99b8-2078-edf0-03be-8d62b8160415" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Eu serei o seu Papai Noel secreto...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>...apenas deixe sua porta aberta hoje...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>...meu Testador.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="4ccd4703-70cf-ec03-2e0e-8a326c6fba41" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Este jogo foi projetado para ajudar Satanás a encontrar garotos desobedientes.</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Oh, espera... Jogador, eu quis dizer Papai Noel!
+*gulp* He-he.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="84d5384e-c6e1-0d16-06ea-9dd9239b8b10" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Não são assaltantes, são tipo</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Papais Noeis reversos, entende?</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>Você sabe, he-he.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="292fe108-95a0-944b-5ec9-e27b62f0aa7f" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Estou fazendo uma lista, estou checando duas vezes</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>Eu vou descobrir se você é desobediente ou legal</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>Isso que, o Cara, Pare...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>...é PARAAA!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="4">
+          <Text>Jogador? Eu espero que você aplauda!</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="3980f31c-a557-0518-6a0e-760440b8b377" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Eu acho que você precisa de óculos.
+Ou talvez um telescópio.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="1fa9e74d-93c4-e3e9-33af-73b3436c4a78" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Você está totalmente &lt;i&gt;blindado&lt;/i&gt; it.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>Trocadilho terrível
+Ótima entrega</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="01d406a8-4b73-aac0-5096-e1448a9e8ec7" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Sandálias são para o verão,
+meias quentes para o inverno!</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="2c023661-56fa-b606-4ea7-7ce806e98576" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Bem, essa é uma maneira de resolver os pés frios.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="bbf407b9-1639-3773-ade2-1c6d5647ff02" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>A coisa mais cômica disso é você.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>E não é
+nem
+engraçado</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="e0783202-f8a5-fd52-a3a3-4d4ebbdc67d5" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Fonte perfeita para uma história em quadrinhos sobre sua vida triste.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="05709ff4-6bd1-0cc0-af0b-03300ef4aacd" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Não é tão engraçado quanto o nome da fonte implica.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="facbc0be-ebea-fa82-6046-596c8bfda48a" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Se assim for, eu sinto muito.</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>Você é daltônico?</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="fbf3eaf6-f104-fabd-b6fa-1feff7e3a97b" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Preciso adicionar uma opção daltônica apenas para você?</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="287a5fc2-cdc8-dce6-ec89-a077215a478a" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>UM BILHÃO DE PONTOS negativos!</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="a4289de0-97bb-54ab-799e-10e2b93a4ead" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Você só tinha que tocar no mouse, não é?</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+  </EntryList>
+</VoiceContainer>
